@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Module03.Bai02.Test",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "Module04.Bai07.main",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Module03.Bai01.Main",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainAccout",
+            "request": "launch",
+            "mainClass": "Module2.MainAccout",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainDsv",
+            "request": "launch",
+            "mainClass": "Module2.MainDsv",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainHangThucPham",
+            "request": "launch",
+            "mainClass": "Module2.MainHangThucPham",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainHinhTron",
+            "request": "launch",
+            "mainClass": "Module2.MainHinhTron",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainThongTinXe",
+            "request": "launch",
+            "mainClass": "Module2.MainThongTinXe",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai03",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai03",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai04",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai04",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai05",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai05",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai06",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai06",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai07",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai07",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai08",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai08",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai09",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai09",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai10",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai10",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai11",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai11",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai12",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai12",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai13",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai13",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai14",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai14",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai15",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai15",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai16",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai16",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai17",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai17",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bai18",
+            "request": "launch",
+            "mainClass": "Module2.phan03.Bai18",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Vidu.Test",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry",
+            "request": "launch",
+            "mainClass": "hinh.Entry",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainCircle",
+            "request": "launch",
+            "mainClass": "hinh.MainCircle",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainTamGiac",
+            "request": "launch",
+            "mainClass": "hinh.MainTamGiac",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainAccout(1)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai06.MainAccout",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry(1)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai07.Entry",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry(2)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai08.Entry",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry(3)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai09.Entry",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry(4)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai10.Entry",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry(5)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai11.Entry",
+            "projectName": "OOP_ae45a3c8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entry(6)",
+            "request": "launch",
+            "mainClass": "leThanhNghia.bai12.Entry",
+            "projectName": "OOP_ae45a3c8"
+        }
+    ]
+}

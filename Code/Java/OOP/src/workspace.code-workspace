@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Module2"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"OPP"
+		],
+		"java.project.outputPath": "bin"
+	}
+}
